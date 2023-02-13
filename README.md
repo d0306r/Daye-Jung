@@ -8,4 +8,6 @@
 
 🏆 2022 Big Conteset - Data Analysis Part, 3rd Prize
 
+✏️ studying @ Encore Big Data Bootcamp 21th, Data Engineering Course (2023.01 - 2023. 07)
+
 🗡️ MySQL, Python3, Tableau 
